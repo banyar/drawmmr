@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.App-map {
+  height: 100%;
+  width: 100%;
+}
